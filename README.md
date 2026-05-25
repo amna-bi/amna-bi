@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/amna-bi/amna-bi/snake-output/snake.svg" alt="Snake animation" />
-
-###
