@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Amna Bibi. Welcome to my coding space! 🚀<br><br>🎓 Computer Science Student (HSSC, 82.45%) | KRL Model College for Girls<br>📊 Aspiring System Analyst passionate about designing efficient, scalable system architectures<br>🧠 Bridging the gap between software development, database design, and business requirements<br>🛠️ Currently mastering object-oriented design, SDLC methodologies, and data modeling</h4>
+<h4 align="left">Hi 👋! My name is Amna Bibi. Welcome to my coding space! 🚀<br><br>🎓 Computer Science Student | Turning ideas into working software<br>📊 Aspiring System Analyst passionate about designing efficient, scalable system architectures<br>🧠 Bridging the gap between software development, database design, and business requirements<br>🛠️ Currently mastering object-oriented design, SDLC methodologies, and data modeling</h4>
 
 ###
 
